@@ -8,6 +8,8 @@ public class Main {
 		System.out.println("Добавляем третью строку");
 		System.out.println("Четвертое обновление");
 		System.out.println("Веревка");
+		System.out.println("Лампочка");
+
 
 	}
 

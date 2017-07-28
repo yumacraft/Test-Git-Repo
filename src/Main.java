@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Привет мир");
 		System.out.println("Еще одно обновление");
+		System.out.println("Добавляем третью строку");
 
 	}
 

@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Обновление второй строки №3");
 		System.out.println("Добавляем третью строку");
 		System.out.println("Четвертое обновление");
+		System.out.println("Веревка");
 
 	}
 

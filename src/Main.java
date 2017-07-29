@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("Веревка");
 		System.out.println("Лампочка");
 		System.out.println("Лампочка3");
+		System.out.println("Лампочка4");
 
 
 	}
